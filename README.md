@@ -34,6 +34,5 @@ I am a full stack software developer who enjoys solving problems. My primary web
 
 ### :nerd_face: Currently Learning
 
-- React
-- Bootstrap
-- Express
+- TypeScript
+- AWS
