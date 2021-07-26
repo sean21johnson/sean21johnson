@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am a full stack web developer who enjoys the challenge of solving difficult problems. My primary tools are currently JavaScript, React, Node.js, Express, HTML, and CSS. Before pivoting to software development, I worked in financial services for ten years. My professional experience at JPMorgan Chase and Citco Fund Services taught me how to effectively work on teams, manage project deadlines and consistently deliver quality results. In March 2021, I completed a six-month immersive software engineering course at Thinkful, and am eager to apply what I have learned in a professional environment. I am confident that my programming skills, business experience, and problem-solving aptitude can add value to your organization. 
+I am a full stack web developer who enjoys the challenge of solving difficult problems. My primary web dev tools are currently JavaScript, React, Node.js, Express, HTML, and CSS. Before pivoting to software development, I worked in financial services for ten years. My professional experience at JPMorgan Chase and Citco Fund Services taught me how to effectively work on teams, manage project deadlines and consistently deliver quality results. In March 2021, I completed a six-month immersive software engineering course at Thinkful, and am eager to apply what I have learned in a professional environment. I am confident that my programming skills, business experience, and problem-solving aptitude can add value to your organization. 
 
 ---
 
