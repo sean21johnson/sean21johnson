@@ -1,7 +1,3 @@
-## Hi there! I'm Sean Johnson.
-
----
-
 ### About Me
 
 Frontend engineer who enjoys the challenge of solving difficult problems.
