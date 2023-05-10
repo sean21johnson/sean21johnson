@@ -1,6 +1,6 @@
 ### About Me
 
-Motivated software developer adept in modern front-end technologies and innovative problem-solving. I am passionate about continuously learning new things and embrace challenges as opportunities to grow. Leveraging my disciplined project management skills and collaborative approach, I consistently exceed expectations. My commitment is to deliver significant results and drive team success.
+Motivated software developer adept in modern front-end technologies and innovative problem-solving. I am passionate about continuously learning new things and embrace challenges as opportunities to grow. Leveraging my project management skills and a collaborative approach, I consistently exceed expectations. My commitment is to deliver impactful results and drive team success.
 
 #### Learning At Zenhub:
 
