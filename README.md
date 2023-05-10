@@ -1,8 +1,16 @@
-### About Me
+## About Me
 
 Motivated software developer adept in modern front-end technologies and innovative problem-solving. I am passionate about continuously learning new things and embrace challenges as opportunities to grow. Leveraging my project management skills and a collaborative approach, I consistently exceed expectations. My commitment is to deliver impactful results and drive team success.
 
-#### Learning At Zenhub:
+### Self-Learning
+
+I believe in lifelong learning and regularly take online courses to keep up with the latest developments in the field. Here are a few of the courses I'm currently learning from:
+
+- [Total TypeScript](https://www.totaltypescript.com/)
+- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- [Prompt Engineering with ChatGPT4 & Midjourney](https://www.udemy.com/course/gptcourse/)
+
+### Learning At Zenhub
 
 <table>
   <thead>
