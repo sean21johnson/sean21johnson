@@ -1,3 +1,5 @@
+# Hi there, I'm Sean Johnson 👋
+
 ## About Me
 
 Software engineer with a penchant for getting things done. Experienced in leading projects and efficiently delivering quality results. Highly effective communicator who proactively facilitates collaboration between internal stakeholders, designers, and engineering colleagues. Skilled in using modern frameworks and toolsets to build intuitive user interfaces, including AI-powered features.
