@@ -2,14 +2,6 @@
 
 Software engineer with a penchant for getting things done. Experienced in leading projects and efficiently delivering quality results. Highly effective communicator who proactively facilitates collaboration between internal stakeholders, designers, and engineering colleagues. Skilled in using modern frameworks and toolsets to build intuitive user interfaces, including AI-powered features.
 
-### Self-Learning
-
-I believe in lifelong learning and regularly take online courses to keep up with the latest developments in the field. Here are a few of the courses I'm currently learning from:
-
-- [Total TypeScript](https://www.totaltypescript.com/)
-- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-- [Prompt Engineering with ChatGPT4 & Midjourney](https://www.udemy.com/course/gptcourse/)
-
 ### Learning At Zenhub
 
 <table>
