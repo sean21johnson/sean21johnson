@@ -1,6 +1,6 @@
 ## About Me
 
-Motivated software developer adept in modern front-end technologies and innovative problem-solving. I am passionate about continuously learning new things and embrace challenges as opportunities to grow. Leveraging my project management skills and a collaborative approach, I consistently exceed expectations. My commitment is to deliver impactful results and drive team success.
+Software engineer with a penchant for getting things done. Experienced in leading projects and efficiently delivering quality results. Highly effective communicator who proactively facilitates collaboration between internal stakeholders, designers, and engineering colleagues. Skilled in using modern frameworks and toolsets to build intuitive user interfaces, including AI-powered features.
 
 ### Self-Learning
 
