@@ -4,7 +4,9 @@
 
 Software engineer and NYU Stern MBA with a penchant for getting things done. Proven track record of leading technical projects and efficiently delivering quality results. Pivoted to software development in 2020, inspired by a passion for technology after collaborating with tech teams in financial services. Skilled in using modern frontend frameworks and toolsets to build intuitive user interfaces, including AI-powered automation features.
 
-### Tech Stack
+## Tech Stack
+
+### Frontend
 
 <table>
   <thead>
