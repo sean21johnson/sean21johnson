@@ -23,18 +23,33 @@ Software engineer and NYU Stern MBA with a penchant for getting things done. Pro
     <tr>
       <td align="center"><img src="https://imgur.com/Y4aC5AB.jpg" alt="TypeScript Logo" width="50" height="50"><br>TypeScript</td>
       <td>Applying TypeScript for type safety and predicting properties on objects. Utilized interface and type alias for defining custom types. Gained experience in using utility types such as Partial, Pick, and Record.</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://imgur.com/cRU7LU3.jpg" alt="Redux Logo" width="50" height="50"><br>Redux</td>
-      <td>Understanding the Redux flow: actions, reducers, and store. Experienced in using Redux Toolkit for simpler syntax and efficient development. Gained proficiency in handling asynchronous actions with redux-thunk.</td>
-    </tr>
     <tr>
       <td align="center"><img src="https://imgur.com/Iq1dYKn.jpg" alt="JavaScript Logo" width="50" height="50"><br>JavaScript</td>
       <td>Strong foundation in JavaScript, understanding concepts such as closures, promises, async/await, destructuring, spread/rest operators, ES6+ features, and more.</td>
     </tr>
     <tr>
+      <td align="center"><img src="https://imgur.com/Bsia4db.jpg" alt="HTML5 Logo" width="50" height="50"><br>HTML</td>
+      <td>Strong knowledge of HTML5, understanding semantic elements, and structuring web content effectively. Experience in optimizing HTML for better accessibility and SEO performance.</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://imgur.com/vZYocZj.jpg" alt="CSS Logo" width="50" height="50"><br>CSS</td>
+      <td>Proficient in writing clean and maintainable CSS, utilizing concepts such as Flexbox, Grid, and media queries for responsive design. Skilled in using container queries to create more           adaptable layouts.</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://imgur.com/ohixWsv.jpg" alt="Apollo GraphQL Logo" width="50" height="50"><br>Apollo GraphQL</td>
+      <td>Skilled in utilizing Apollo Client for managing GraphQL data in React applications. Experience in writing efficient queries and mutations, and leveraging Apollo's caching and state management features.</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://imgur.com/cRU7LU3.jpg" alt="Redux Logo" width="50" height="50"><br>Redux</td>
+      <td>Understanding the Redux flow: actions, reducers, and store. Experienced in using Redux Toolkit for simpler syntax and efficient development. Gained proficiency in handling asynchronous         actions with redux-thunk.</td>
+    </tr>
+    <tr>
       <td align="center"><img src="https://imgur.com/9ZwiudL.jpg" alt="React Testing Library Logo" width="50" height="50"><br>React Testing Library</td>
       <td>Experience in writing robust unit tests for React components using React Testing Library. Understanding of concepts like mocks, spies, and async testing.</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://imgur.com/pHffO2x.jpg" alt="Jest Logo" width="50" height="50"><br>Jest</td>
+      <td>Experienced in using Jest for testing JavaScript applications. Proficient in writing unit tests, integration tests, and setting up mock functions to ensure code reliability and correctness.</td>
     </tr>
   </tbody>
 </table>
