@@ -54,6 +54,20 @@ Software engineer and NYU Stern MBA with a penchant for getting things done. Pro
   </tbody>
 </table>
 
+### Additional
+
+<table>
+  <tr>
+    <td width="140" align="center"><strong>Technology</strong></td>
+    <td width="135" align="center"><img src="https://imgur.com/o6vccwt.jpg" alt="Node.js Logo" width="50" height="50"><br>Node.js</td>
+    <td width="135" align="center"><img src="https://imgur.com/3RMa1jf.jpg" alt="Express Logo" width="50" height="50"><br>Express</td>
+    <td width="135" align="center"><img src="https://imgur.com/ifhDGav.jpg" alt="PostgreSQL Logo" width="80" height="50"><br>PostgreSQL</td>
+    <td width="135" align="center"><img src="https://imgur.com/uFUGd5u.jpg" alt="Webpack Logo" width="50" height="50"><br>Webpack</td>
+    <td width="135" align="center"><img src="https://imgur.com/QiYbF4y.jpg" alt="Git Logo" width="50" height="50"><br>Git</td>
+    <td width="135" align="center"><img src="https://imgur.com/183iOja.jpg" alt="GitHub Logo" width="50" height="50"><br>GitHub</td>
+    <td width="135" align="center"><img src="https://imgur.com/8rCYEGL.jpg" alt="Figma Logo" width="50" height="50"><br>Figma</td>
+  </tr>
+</table>
 
 
 
