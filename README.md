@@ -28,7 +28,7 @@ Software engineer and NYU Stern MBA with a penchant for getting things done. Pro
       <td><a href="https://www.youtube.com/watch?v=Ley8NWiL0lQ" target="_blank">
         <img src="https://img.youtube.com/vi/Ley8NWiL0lQ/0.jpg" alt="Watch the video" width="300" height="100">
       </a></td>
-      <td><div><strong>AI Label Suggestions</strong></div>Leveraged OpenAI's API with GPT-4o LLM to develop AI-powered feature which streamlined GitHub issue creation process, enhancing UX and reducing user clicks.</td>
+      <td><div><strong>AI Label Suggestions</strong></div>Leveraged OpenAI's API to develop AI-powered feature which streamlined GitHub issue creation process, enhancing UX and reducing user clicks.</td>
     </tr>
         <tr>
       <td><a href="https://www.youtube.com/watch?v=c2aobsDeuXo" target="_blank">
