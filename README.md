@@ -4,6 +4,18 @@
 
 Software engineer and NYU Stern MBA with a penchant for getting things done. Proven track record of leading technical projects and efficiently delivering quality results. Pivoted to software development in 2020, inspired by a passion for technology after collaborating with engineering teams in financial services. Skilled in using modern frontend frameworks and toolsets to build intuitive user interfaces, including AI-powered automation features.
 
+## Professional Experience
+
+### Zenhub
+
+#### Intermediate Frontend Engineer
+
+<p>Collaborated with product managers, designers, and engineers to build robust project management suite. Led projects and delivered impactful results through effective communication, collaboration, and my technical expertise. Developed core product features that drive user growth and retention, including AI-powered enhancements that streamline key user processes.</p>
+
+#### Associate Frontend Engineer
+
+<p>Delivered key contributions to the code base, enhancing UI and UX for the web application and browser extension. Resolved and deployed fixes for critical bugs. Modernized tech stack with React and TypeScript and transitioned RESTful API calls to Apollo GraphQL, enhancing web app performance.</p>
+
 ## Tech Stack
 
 ### Frontend
