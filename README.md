@@ -6,7 +6,7 @@ Software engineer and NYU Stern MBA with a penchant for getting things done. Pro
 
 ## Professional Experience
 
-### Zenhub
+### <img src="https://imgur.com/JqVw8Am.jpg" alt="Zenhub Logo" width="17" height="17"> Zenhub
 
 #### <img src="https://imgur.com/JqVw8Am.jpg" alt="Zenhub Logo" width="13" height="13"> Intermediate Frontend Engineer
 
@@ -15,6 +15,35 @@ Software engineer and NYU Stern MBA with a penchant for getting things done. Pro
 #### <img src="https://imgur.com/JqVw8Am.jpg" alt="Zenhub Logo" width="13" height="13"> Associate Frontend Engineer
 
 <p>Delivered key contributions to the code base, enhancing UI and UX for the web application and browser extension. Resolved and deployed fixes for critical bugs. Modernized tech stack with React and TypeScript and transitioned RESTful API calls to Apollo GraphQL, enhancing web app performance.</p>
+
+#### <img src="https://imgur.com/JqVw8Am.jpg" alt="Zenhub Logo" width="13" height="13"> Projects & Features
+
+<table>
+  <thead>
+    <th>YouTube Link</th>
+    <th>Description</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=Ley8NWiL0lQ" target="_blank">
+        <img src="https://img.youtube.com/vi/Ley8NWiL0lQ/0.jpg" alt="Watch the video" width="300" height="100">
+      </a></td>
+      <td><div><strong>AI Label Suggestions</strong></div>Leveraged OpenAI's API with GPT-4o LLM to develop AI-powered feature which streamlined GitHub issue creation process, enhancing UX and reducing user clicks.</td>
+    </tr>
+        <tr>
+      <td><a href="https://www.youtube.com/watch?v=c2aobsDeuXo" target="_blank">
+        <img src="https://img.youtube.com/vi/c2aobsDeuXo/0.jpg" alt="Watch the video" width="200" height="100">
+      </a></td>
+      <td><div><strong>Daily Feed Page</strong></div>Created infortative daily standup page, outlining team progress and bottlenecks. Achieved widespread adoption, significantly improving in-app team collaboration.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=i6jQpvzbXrw" target="_blank">
+        <img src="https://img.youtube.com/vi/i6jQpvzbXrw/0.jpg" alt="Watch the video" width="200" height="100">
+      </a></td>
+      <td><div><strong>Roadmap Enhancements</strong></div>Led initiative to enhance project planning interface. Included advanced data visualization offering with key dates and dependencies. Incorporated pagination with GraphQL to optimize performance and built support for CSV/PNG/SVG data exporting.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Tech Stack
 
