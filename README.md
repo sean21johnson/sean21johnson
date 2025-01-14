@@ -10,6 +10,8 @@ Software engineer and NYU Stern MBA with a penchant for getting things done. Pro
 
 #### <img src="https://imgur.com/juAMvKz.jpg" alt="Penn Entertainment Logo" width="13" height="13"> Frontend Engineer
 
+<p>Leading the frontend development of a kiosk application for Penn Entertainment’s casinos, enabling guests to redeem rewards, access promotions, and view personalized account details. Responsible for all architectural decisions and implementation. Focused on crafting a performant, intuitive, and engaging user experience.</p>
+
 ### <a href="https://www.zenhub.com/" target="_blank">Zenhub</a>
 
 #### <img src="https://imgur.com/JqVw8Am.jpg" alt="Zenhub Logo" width="13" height="13"> Intermediate Frontend Engineer
