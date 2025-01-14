@@ -12,8 +12,6 @@ Software engineer and NYU Stern MBA with a penchant for getting things done. Pro
 
 <p>Collaborated with product managers, designers, and engineers to build robust project management suite. Led projects and delivered impactful results through effective communication, collaboration, and my technical expertise. Developed core product features that drive user growth and retention, including AI-powered enhancements that streamline key user processes.</p>
 
-#### <img src="https://imgur.com/JqVw8Am.jpg" alt="Zenhub Logo" width="13" height="13"> Associate Frontend Engineer
-
 <p>Delivered key contributions to the code base, enhancing UI and UX for the web application and browser extension. Resolved and deployed fixes for critical bugs. Modernized tech stack with React and TypeScript and transitioned RESTful API calls to Apollo GraphQL, enhancing web app performance.</p>
 
 #### <img src="https://imgur.com/JqVw8Am.jpg" alt="Zenhub Logo" width="13" height="13"> Projects & Features
