@@ -6,7 +6,9 @@ Software engineer and NYU Stern MBA with a penchant for getting things done. Pro
 
 ## Professional Experience
 
-#### <img src="https://imgur.com/b1F3YFb.jpg" alt="Penn Entertainment Logo" width="25" height="25"> Frontend Engineer
+### <a href="https://www.pennentertainment.com/" target="_blank">Penn Entertainment</a>
+
+#### <img src="https://imgur.com/juAMvKz.jpg" alt="Penn Entertainment Logo" width="13" height="13"> Frontend Engineer
 
 ### <a href="https://www.zenhub.com/" target="_blank">Zenhub</a>
 
