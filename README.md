@@ -6,6 +6,8 @@ Software engineer and NYU Stern MBA with a penchant for getting things done. Pro
 
 ## Professional Experience
 
+#### <img src="https://imgur.com/HAzLGVN.jpg" alt="Zenhub Logo" width="13" height="13"> Intermediate Frontend Engineer
+
 ### <a href="https://www.zenhub.com/" target="_blank">Zenhub</a>
 
 #### <img src="https://imgur.com/JqVw8Am.jpg" alt="Zenhub Logo" width="13" height="13"> Intermediate Frontend Engineer
