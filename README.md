@@ -10,17 +10,13 @@ Software engineer and NYU Stern MBA with experience delivering impactful custome
 
 #### <img src="https://imgur.com/juAMvKz.jpg" alt="Penn Entertainment Logo" width="13" height="13"> Software Engineer
 
-<p>Led the frontend development of a kiosk application for Penn Entertainment casinos nationwide, empowering guests on the game floor to seamlessly redeem rewards, access promotions, and view personalized account details. Owned all architectural decisions and frontend implementation, delivering a highly performant, intuitive, and engaging user experience using React, TypeScript, Next.js, and NPX.</p>
-
-<p>Integrated Mock Service Worker to streamline development by mocking API responses, ensuring accurate alignment with actual API behavior. Implemented Stale-While-Revalidate for optimized data fetching and caching. Focused on building maintainable, scalable frontend solutions while collaborating closely with backend engineers and designers to align the application with business goals and user needs.</p>
+<p>Lead the frontend architecture for Penn Entertainment’s guest-facing kiosk platform. Collaborate with design, marketing, and product teams to accelerate feedback and keep the engineering roadmap tied to revenue goals. The resulting React/TypeScript/Next.js application will power 200+ kiosks nationwide and is on track to deliver a multimillion-dollar lift in annual gaming revenue.</p>
 
 ### <a href="https://www.zenhub.com/" target="_blank">Zenhub</a>
 
 #### <img src="https://imgur.com/JqVw8Am.jpg" alt="Zenhub Logo" width="13" height="13"> Frontend Engineer
 
-<p>Collaborated with product managers, designers, and engineers to build robust project management suite. Led projects and delivered impactful results through effective communication, collaboration, and my technical expertise. Developed core product features that drive user growth and retention, including AI-powered enhancements that streamline key user processes.</p>
-
-<p>Delivered key contributions to the code base, enhancing UI and UX for the web application and browser extension. Resolved and deployed fixes for critical bugs. Modernized tech stack with React and TypeScript and transitioned RESTful API calls to Apollo GraphQL, enhancing web app performance.</p>
+<p>Enhanced Zenhub’s project-management platform by building an AI-driven GitHub Issue Assistant, richer planning dashboards, and a modern React/TypeScript–GraphQL front-end. Worked closely with product, design, and engineering teams to streamline user workflows and improve overall application performance.</p>
 
 #### <img src="https://imgur.com/JqVw8Am.jpg" alt="Zenhub Logo" width="13" height="13"> Projects & Features
 
