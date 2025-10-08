@@ -2,7 +2,7 @@
 
 ## About Me
 
-Software engineer and NYU Stern MBA with a penchant for getting things done. Proven track record of leading technical projects and efficiently delivering quality results. Pivoted to software development in 2020, inspired by a passion for technology after collaborating with engineering teams in financial services. Skilled in using modern frontend frameworks and toolsets to build intuitive user interfaces, including AI-powered automation features.
+Software engineer and NYU Stern MBA with experience delivering impactful customer-facing products. Led technical projects, built AI-powered features, and anchored roadmaps to measurable business outcomes. Skilled in streamlining end-to-end workflows and turning complex requirements into resilient, maintainable systems at scale. 
 
 ## Professional Experience
 
