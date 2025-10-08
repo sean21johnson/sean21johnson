@@ -8,7 +8,7 @@ Software engineer and NYU Stern MBA with a penchant for getting things done. Pro
 
 ### <a href="https://www.pennentertainment.com/" target="_blank">Penn Entertainment</a>
 
-#### <img src="https://imgur.com/juAMvKz.jpg" alt="Penn Entertainment Logo" width="13" height="13"> Frontend Engineer
+#### <img src="https://imgur.com/juAMvKz.jpg" alt="Penn Entertainment Logo" width="13" height="13"> Software Engineer
 
 <p>Led the frontend development of a kiosk application for Penn Entertainment casinos nationwide, empowering guests on the game floor to seamlessly redeem rewards, access promotions, and view personalized account details. Owned all architectural decisions and frontend implementation, delivering a highly performant, intuitive, and engaging user experience using React, TypeScript, Next.js, and NPX.</p>
 
@@ -16,7 +16,7 @@ Software engineer and NYU Stern MBA with a penchant for getting things done. Pro
 
 ### <a href="https://www.zenhub.com/" target="_blank">Zenhub</a>
 
-#### <img src="https://imgur.com/JqVw8Am.jpg" alt="Zenhub Logo" width="13" height="13"> Intermediate Frontend Engineer
+#### <img src="https://imgur.com/JqVw8Am.jpg" alt="Zenhub Logo" width="13" height="13"> Frontend Engineer
 
 <p>Collaborated with product managers, designers, and engineers to build robust project management suite. Led projects and delivered impactful results through effective communication, collaboration, and my technical expertise. Developed core product features that drive user growth and retention, including AI-powered enhancements that streamline key user processes.</p>
 
