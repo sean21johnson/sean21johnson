@@ -8,13 +8,13 @@ Software engineer and NYU Stern MBA with experience delivering impactful custome
 
 ### <a href="https://www.pennentertainment.com/" target="_blank">Penn Entertainment</a>
 
-#### <img src="https://imgur.com/juAMvKz.jpg" alt="Penn Entertainment Logo" width="13" height="13"> Software Engineer
+#### <img src="https://imgur.com/juAMvKz.jpg" alt="Penn Entertainment Logo" width="13" height="13"> Frontend Engineer
 
 <p>Lead the frontend architecture for Penn Entertainment’s guest-facing kiosk platform. Collaborate with design, marketing, and product teams to accelerate feedback and keep the engineering roadmap tied to revenue goals. The resulting React/TypeScript/Next.js application will power 200+ kiosks nationwide and is on track to deliver a multimillion-dollar lift in annual gaming revenue.</p>
 
 ### <a href="https://www.zenhub.com/" target="_blank">Zenhub</a>
 
-#### <img src="https://imgur.com/JqVw8Am.jpg" alt="Zenhub Logo" width="13" height="13"> Frontend Engineer
+#### <img src="https://imgur.com/JqVw8Am.jpg" alt="Zenhub Logo" width="13" height="13"> Software Engineer
 
 <p>Enhanced Zenhub’s project-management platform by building an AI-driven GitHub Issue Assistant, richer planning dashboards, and a modern React/TypeScript–GraphQL front-end. Worked closely with product, design, and engineering teams to streamline user workflows and improve overall application performance.</p>
 
